@@ -9,7 +9,7 @@
 👯 I’m looking to collaborate to code some fun projects<br>
 🤝 I really love to code <br>
 🌱 I’m currently learning ASP.net<br>
-💬 Ask me about programming related<br>
+💬 I love to discuss programming-related matters<br>
 ⚡ Looking for experience 
 
 ## 🌐 Socials:

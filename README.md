@@ -1,7 +1,7 @@
+## 💫 About Me:
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-# 💫 About Me:
 🔭 I’m currently working at Ace Data Systems<br>👯 I’m looking to collaborate to code some fun projects<br>🤝 I’m looking for help with Web Development <br>🌱 I’m currently learning ASP.net<br>💬 Ask me about programming related<br>⚡ Looking for some job experience 
+
 
 
 ## 🌐 Socials:
@@ -31,7 +31,7 @@
   ## 💰 You can buy me a coffee ☕ xD 
 <details>
   <summary>Scan QR Code</summary>
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+ <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
  <!-- ![QR Code](https://api.qrserver.com/v1/create-qr-code/?data=https://example.com&size=150x150) -->
 </details>
 

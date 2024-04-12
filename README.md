@@ -1,4 +1,4 @@
-<div style="background-image: url('https://images.newscientist.com/wp-content/uploads/2014/06/mg22229751.700-1_800.jpg?width=900');">
+<div style="background-image: url('https://github.com/Htin-Lynn-Kyaw/Htin-Lynn-Kyaw/blob/main/first-bg.jpg');">
 <h2 align="left">Hello, World! 👋 I'm just a typical developer who's thriving in the IT cosmos!</h2>
 
 ###

@@ -1,3 +1,4 @@
+<div style="background-image: url('https://images.newscientist.com/wp-content/uploads/2014/06/mg22229751.700-1_800.jpg?width=800');">
 <h2 align="left">Hello, World! 👋 I'm just a typical developer who's thriving in the IT cosmos!</h2>
 
 ###
@@ -44,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+<!--<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />-->
 ###
+</div>

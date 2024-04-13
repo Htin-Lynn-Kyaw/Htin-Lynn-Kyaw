@@ -7,7 +7,7 @@
 <h3>Hello, World! 👋 I'm just a typical developer who's thriving in the IT cosmos!</h3>
 🔭 I’m currently working at Ace Data Systems<br>
 👯 I’m looking to collaborate to code some fun projects<br>
-🤝 I really love to code <br>
+🤝 I really love to communicate <br>
 🌱 I’m currently learning ASP.net<br>
 💬 I love to discuss programming-related matters<br>
 ⚡ Looking for experience 

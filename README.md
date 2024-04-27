@@ -8,7 +8,7 @@
 🔭 I’m currently working at Ace Data Systems<br>
 👯 I’m looking to collaborate to code some fun projects<br>
 🤝 I love to communicate with people<br>
-🌱 I’m currently learning ASP.net<br>
+🌱 I’m currently learning ASP.NET Core<br>
 💬 I love to discuss programming-related matters<br>
 ⚡ Looking for job experience 
 
@@ -27,14 +27,14 @@
 <img align="right" height="150" src="https://media.tenor.com/RJTjIBDlxHEAAAAj/dance-mikasa-ackerman.gif"/>
 <img align="right" height="150" src="https://media.tenor.com/RJTjIBDlxHEAAAAj/dance-mikasa-ackerman.gif"/>
 
-![](https://github-readme-stats.vercel.app/api?username=Htin-Lynn-Kyaw&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Htin-Lynn-Kyaw&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Htin-Lynn-Kyaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Htin-Lynn-Kyaw&theme=dark&hide_border=false)<br/>
 <img align="right" height="150" src="https://media.tenor.com/1MwwzHlaG10AAAAj/bonjour.gif"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Htin-Lynn-Kyaw&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Htin-Lynn-Kyaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Htin-Lynn-Kyaw&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![LeetCode Stats](https://leetcode.card.workers.dev/WilliamLynn?theme=dark&font=baloo&extension=activity)
 
 ### 😂 Random Dev Meme
 <img align="right" height="150" src="https://media.tenor.com/VWajfOAwfqUAAAAj/anime-anime-girl-dance.gif"/>

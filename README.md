@@ -1,7 +1,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Htin-Lynn-Kyaw&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 💫Htin Lynn Kyaw from Myanmar
+## 💫HTIN LYNN KYAW from Myanmar
 <img align="right" height="150" src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif"/>
 
 <h3>Hello, World! 👋 I'm just a typical developer who's thriving in the IT cosmos!</h3>
@@ -22,6 +22,10 @@
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/mssql-%230074e3.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![API](https://img.shields.io/badge/api-%23239120.svg?style=for-the-badge&logo=api&logoColor=white)
+
 # 📊 GitHub Stats:
 <img align="right" height="150" src="https://media.tenor.com/RJTjIBDlxHEAAAAj/dance-mikasa-ackerman.gif"/>
 <img align="right" height="150" src="https://media.tenor.com/RJTjIBDlxHEAAAAj/dance-mikasa-ackerman.gif"/>
@@ -33,7 +37,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Htin-Lynn-Kyaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🔝 Not much
 ![LeetCode Stats](https://leetcode.card.workers.dev/WilliamLynn?theme=dark&font=baloo&extension=activity)
 
 ### 😂 Random Dev Meme

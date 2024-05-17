@@ -47,12 +47,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Htin-Lynn-Kyaw&icon=4&color=2)](https://visitcount.itsvg.in)
 
-  ## 💰 You can buy me a coffee ☕
-<details>
+<!-- ## 💰 You can buy me a coffee ☕
+ <details>
   <summary>Click me xD</summary>
  <img height="500" src="https://github.com/Htin-Lynn-Kyaw/Htin-Lynn-Kyaw/blob/main/viber_image_2024-04-12_13-28-33-631.jpg"  />
  <!-- ![QR Code](https://api.qrserver.com/v1/create-qr-code/?data=https://example.com&size=150x150) -->
-</details>
+<!--</details> --!>
+
 
  <!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/09 255283024) --!> 
 

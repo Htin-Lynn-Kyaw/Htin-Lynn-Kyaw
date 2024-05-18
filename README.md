@@ -41,7 +41,7 @@
 ### 😂 Random Dev Meme
 <!--<img align="right" height="150" src="https://media.tenor.com/VWajfOAwfqUAAAAj/anime-anime-girl-dance.gif"/>-->
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!--<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Htin-Lynn-Kyaw&icon=4&color=2)](https://visitcount.itsvg.in)

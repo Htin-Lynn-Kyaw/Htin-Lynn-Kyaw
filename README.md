@@ -1,7 +1,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Htin-Lynn-Kyaw&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 💫HTIN LYNN KYAW from Myanmar 
+<!--## 💫HTIN LYNN KYAW from Myanmar -->
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=40&duration=4999&pause=1000&color=A6009D&random=false&width=435&lines=Htin+Lynn+Kyaw+from+Myanmar)](https://git.io/typing-svg)
 
 <img align="right" height="150" src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif"/>
 

@@ -13,7 +13,7 @@
 ⚡ Looking for job experience 
 
 ## 🌐 Socials:
-<img align="right" height="150" src="https://media.tenor.com/8QhunMJ51sgAAAAj/gojo-twerk-transparent-gojo.gif"/>
+<!--<img align="right" height="150" src="https://media.tenor.com/8QhunMJ51sgAAAAj/gojo-twerk-transparent-gojo.gif"/>-->
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008623097660&mibextid=ZbWKwL) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htin-lynn-kyaw-079a162b6/)
@@ -32,7 +32,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Htin-Lynn-Kyaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Htin-Lynn-Kyaw&theme=dark&hide_border=false)<br/>
-<img align="right" height="150" src="https://media.tenor.com/1MwwzHlaG10AAAAj/bonjour.gif"/>
+<!--<img align="right" height="150" src="https://media.tenor.com/1MwwzHlaG10AAAAj/bonjour.gif"/>-->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Htin-Lynn-Kyaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -40,7 +40,7 @@
 ![LeetCode Stats](https://leetcode.card.workers.dev/WilliamLynn?theme=dark&font=baloo&extension=activity)
 
 ### 😂 Random Dev Meme
-<img align="right" height="150" src="https://media.tenor.com/VWajfOAwfqUAAAAj/anime-anime-girl-dance.gif"/>
+<!--<img align="right" height="150" src="https://media.tenor.com/VWajfOAwfqUAAAAj/anime-anime-girl-dance.gif"/>-->
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 

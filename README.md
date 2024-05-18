@@ -38,7 +38,7 @@
 ### 🔝 Not much
 ![LeetCode Stats](https://leetcode.card.workers.dev/WilliamLynn?theme=dark&font=baloo&extension=activity)
 
-### 😂 Random Dev Meme
+<!--### 😂 Random Dev Meme-->
 <!--<img align="right" height="150" src="https://media.tenor.com/VWajfOAwfqUAAAAj/anime-anime-girl-dance.gif"/>-->
 
 <!--<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>-->

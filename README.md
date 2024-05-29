@@ -24,7 +24,7 @@
 <img align="right" height="150" src="https://media.tenor.com/RJTjIBDlxHEAAAAj/dance-mikasa-ackerman.gif"/>
 <img align="right" height="150" src="https://media.tenor.com/RJTjIBDlxHEAAAAj/dance-mikasa-ackerman.gif"/>
 
-![](https://github-readme-stats.vercel.app/api?username=Htin-Lynn-Kyaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=Htin-Lynn-Kyaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Htin-Lynn-Kyaw&theme=dark&hide_border=false)<br/>
 <!--<img align="right" height="150" src="https://media.tenor.com/1MwwzHlaG10AAAAj/bonjour.gif"/>-->
 

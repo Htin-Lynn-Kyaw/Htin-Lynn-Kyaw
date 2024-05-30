@@ -6,7 +6,7 @@
 
 <img align="right" height="150" src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif"/>
 
-<h3>Hello, World! 👋 I'm just a typical developer who's thriving in the IT cosmos!</h3>
+<h3>"Hello, World! 👋 I'm just a typical developer thriving in the IT cosmos!"</h3>
 
 <!--<img align="right" height="150" src="https://media.tenor.com/8QhunMJ51sgAAAAj/gojo-twerk-transparent-gojo.gif"/>-->
 # 🌐 Socials:

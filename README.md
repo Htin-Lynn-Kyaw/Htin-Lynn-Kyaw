@@ -30,7 +30,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Htin-Lynn-Kyaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Not much
+<!--### 🔝 Not much
 ![LeetCode Stats](https://leetcode.card.workers.dev/WilliamLynn?theme=dark&font=baloo&extension=activity)
 
 <!--### 😂 Random Dev Meme-->
